@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_material_dark">#ffffff</color>
+    <color name="nav">#99d2c8</color>
+    <color name="hadiah">#135671</color>
+    <color name="texthadiah">#ffffff</color>
+    <color name="about">#03A9F4</color>
+    <color name="teks1">#39E6FC</color>
+    <color name="teks2">#39E6FC</color>
+    <color name="teks3">#39E6FC</color>
+    <color name="teks4">#39E6FC</color>
+    <color name="teks5">#39E6FC</color>
+
+
+</resources>

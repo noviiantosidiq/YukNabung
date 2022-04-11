@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YukNabung</string>
+    <string name="lg_Email">Masukan Email</string>
+    <string name="login">Login</string>
+    <string name="kl1">Laki-Laki</string>
+    <string name="kl2">Perempuan</string>
+    <string name="daftar">Daftar</string>
+    <string name="lg_Pass">Masukan Password</string>
+    <string name="lg_kata">Belum punya akun?  Daftar disini</string>
+    <string name="rg_kata">Sudah mendaftar?  Login disini</string>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>

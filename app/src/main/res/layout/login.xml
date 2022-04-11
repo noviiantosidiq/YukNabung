@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:contentDescription="@+string/logoLogin"
+            app:srcCompat="@drawable/asset3" />
+
+
+
+
+        <EditText
+            android:layout_margin="15dp"
+            android:inputType="textEmailAddress"
+            android:hint="@string/lg_Email"
+            android:id="@+id/lgEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:layout_margin="15dp"
+            android:inputType="textPassword"
+            android:hint="@string/lg_Pass"
+            android:id="@+id/lgPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:layout_margin="15dp"
+            android:id="@+id/lgBtn"
+            android:text="@string/login"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+             />
+
+        <TextView
+            android:layout_margin="15dp"
+            android:textAlignment="center"
+            android:id="@+id/textrg"
+            android:text="@string/lg_kata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>

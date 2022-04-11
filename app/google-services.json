@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "540052833848",
+    "firebase_url": "https://yuknabung-9a79c.firebaseio.com",
+    "project_id": "yuknabung-9a79c",
+    "storage_bucket": "yuknabung-9a79c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540052833848:android:c76ade7bc892561b",
+        "android_client_info": {
+          "package_name": "id.zone.yuknabung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540052833848-13ek10pkej1gv7v8b2beki38bolb7mcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.zone.yuknabung",
+            "certificate_hash": "0e8cb2fe28013b56ddbdb7bcd2e2d699985c54d4"
+          }
+        },
+        {
+          "client_id": "540052833848-s8o81000qhd712q60ft19lfjakp92ch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7rmYT0LtzQehIACixV3tVUnfQfkuZJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540052833848-s8o81000qhd712q60ft19lfjakp92ch4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
